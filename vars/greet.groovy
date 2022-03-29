@@ -4,5 +4,5 @@ def square(int x){
 }
 
 def multiplication(int a, int b){
-  echo "$x * $y is ${x*y}"
+  echo "$a * $b is ${a*b}"
 }
