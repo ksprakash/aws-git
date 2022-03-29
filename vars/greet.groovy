@@ -1,4 +1,4 @@
-public void int square(int x){
+def square(int x){
     System.out.println(x*x);
 
 }
