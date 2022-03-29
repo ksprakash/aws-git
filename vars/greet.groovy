@@ -1,5 +1,5 @@
 def square(int x){
-    System.out.println(x*x);
+    echo "${x*x}"
 
 }
 
