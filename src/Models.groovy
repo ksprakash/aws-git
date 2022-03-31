@@ -13,4 +13,7 @@ class Models {
         return name.capitalize();
 
     }
+    void getAllDetails(){
+        println("My name is ${this.name} and aged ${this.age} and I am human: ${{this.isHuman}")
+    }
 }
