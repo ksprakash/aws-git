@@ -14,6 +14,6 @@ class Models {
 
     }
     void getAllDetails(){
-        System.out.println(String.format("My name is ${this.name} and aged ${this.age} and I am human: ${this.isHuman}"));
+        echo "My name is ${this.name} and aged ${this.age} and I am human: ${this.isHuman}"
     }
 }
