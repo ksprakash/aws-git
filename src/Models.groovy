@@ -14,6 +14,6 @@ class Models {
 
     }
     void getAllDetails(){
-        echo "My name is ${this.name} and aged ${this.age} and I am human: ${this.isHuman}"
+        println("My name is ${this.name} and aged ${this.age} and I am human: ${this.isHuman}");
     }
 }
